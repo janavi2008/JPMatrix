@@ -16,3 +16,19 @@ i desinged a pcb, using IC 74HCT595 as a shift register, TPIC6C595 as a power sh
 
 <img width="260" height="409" alt="image" src="https://github.com/user-attachments/assets/933c7029-4ae0-44b2-9430-35d62299e807" />
 
+# BOM
+
+| Item | Qty | Supplier | Total Cost |
+| :--- | :---: | :--- | ---: |
+| raspberry pi pico | 1 | robu | $4.05 |
+| TPIC6C595 | 2 | robu | $3.10 |
+| 74HCT595 | 2 | robu | $1.00 |
+| 74HCT125 | 2 | robu | $0.78 |
+| 0805 smd LED | 128 | robu | $1.4 |
+| 0603 smd 0.1uf capacitor | 6 | robu | $0.15 |
+| 0603 smd 100uf electrolytic capacitor | 2 | robu | $0.22 |
+| 0603 330 ohm resistor | 16 | robu | $0.15 |
+| 0603 10k resistor | 2 | robu | $0.15 |
+| 0603 100 ohm resistor | 2 | robu | $0.15 |
+| male header pins | 16 | robu | $0.2 |
+| pcb manufacture | 5 | zbotic | $10.00 |
