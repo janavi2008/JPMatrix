@@ -1,13 +1,7 @@
-Item,Qty,Supplier,Total Cost
-raspberry pi pico,1,robu,$4.05
-TPIC6C595,2,robu,$3.10
-74HCT595,2,robu,$1.00
-74HCT125,2,robu,$0.78
-0805 smd LED,128,robu,$1.4
-0603 smd 0.1uf capacitor,6,robu,$0.15
-0603 smd 100uf electrolytic capacitor,2,robu,$0.22
-0603 330 ohm resistor,16,robu,$0.15
-0603 10k resistor,2,robu,$0.15
-0603 100 ohm resistor,2,robu,$0.15
-male header pins,16,robu,$0.2
-pcb manufacture,5,zbotic,$10.00
+Item,Qty,Supplier,Cost/item,Total Cost,link
+raspberry pi pico,1,robu.in,$4.05,$4.05,https://robu.in/product/raspberry-pi-pico/
+TPIC6C595,2,robu.in,$1.55,$3.10,https://robu.in/product/tpic6c595dr-texas-instruments-8-4-5v5-5v-1-serial-to-serial-or-parallel-soic-16-shift-registers-rohs/
+74HCT595,2,robu.in,$0.50,$1.00,https://robu.in/product/74hct595d118-nexperia-8-4-5v5-5v-1-serial-to-serial-or-parallel-soic-16-shift-registers-rohs/
+74HCT125,2,robu.in,$0.39,$0.78,https://robu.in/product/74hct125pw118-nexperia-6ma-1-4-5v5-5v-6ma-4-tssop-14-buffers-drivers-receivers-transceivers-rohs/
+"leds, resistors, capacitors",1,robu.in,$2.00,$2.00,https://robu.in
+Estimated total shipping,1,,,$1.00,
